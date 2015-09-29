@@ -1,0 +1,95 @@
+# Useful slides
+This repository helps me to put all the slides from different places to one place. Maybe you find it useful too.
+
+## PHP
+* [Wie man sich auf PHP 7 vorbereitet](https://thephp.cc/termine/2015/09/code-talks/wie-man-sich-auf-php-7-vorbereitet)
+* [SOLID MVC](https://thephp.cc/dates/2015/09/bulgaria-php-conference/solid-mvc)
+* [Puli: PHP's Next Package Revolution](https://speakerdeck.com/webmozart/puli-phps-next-package-revolution)
+* [Real-time Web Apps & Symfony. What are your options?](http://leggetter.github.io/realtime-symfony/)
+* [Hexagonal architecture - message-oriented software design](http://www.slideshare.net/matthiasnoback/hexagonal-architecture-messageoriented-software-design-52937988)
+* [Composer: Stability and Semantic Versioning Demystified]()
+* [CQRS in der Praxis - Newsletter Double-Opt-In](http://de.slideshare.net/phpindd/cqrs-in-der-praxis-newsletter-doubleoptin)
+* [Clean application development tutorial](http://de.slideshare.net/adamculp/clean-application-development-tutorial)
+* [The IoC Hydra](http://de.slideshare.net/cakper/the-ioc-hydra)
+* [Min-Maxing Software Costs - Laracon EU 2015](http://de.slideshare.net/everzet/minmaxing-software-costs-laracon-eu-2015)
+* [Easy Scalability with Akka - Scala Days 2015](http://de.slideshare.net/Tindr/easy-scalability-with-akka-scala-days-2015)
+* [Model storming](http://de.slideshare.net/ziobrando/model-storming)
+* [Hexagonal architecture - message-oriented software design](http://de.slideshare.net/matthiasnoback/hexagonal-architecture-messageoriented-software-design)
+* [Dutch PHP Conference 2015 - The quest for global design principles](http://de.slideshare.net/matthiasnoback/dutch-php-conference-2015-the-quest-for-global-design-principles)
+* [Command Bus To Awesome Town](http://de.slideshare.net/rosstuck/command-bus-to-awesome-town)
+* [PHP-VCR behat case study](http://de.slideshare.net/Thormeier/php-vcr-behat-case-study)
+* [Event-sourced architectures with Akka](http://de.slideshare.net/SanderMak/eventsourced-architectures-with-akka)
+* [Meet a parallel, asynchronous PHP world](http://de.slideshare.net/maraspin/meet-a-parallel-asynchronous-php-world)
+* [Brownfield Domain Driven Design](http://de.slideshare.net/NicolPignatelli/brownfield-domain-driven-design-48240538)
+* [PHP data structures (and the impact of php 7 on them), phpDay Verona 2015, Italy](http://de.slideshare.net/patrick.allaert/php-data-structures-and-the-impact-of-php-7-on-them-php-days-2015)
+* [PHP App Performance / Sydney PHP](http://de.slideshare.net/HaraldZeitlhofer/php-app-performance-php-sydney)
+* [Clean architecture with ddd layering in php](http://de.slideshare.net/_leopro_/clean-architecture-with-ddd-layering-in-php-35793127)
+* [Models and Service Layers, Hemoglobin and Hobgoblins](http://de.slideshare.net/rosstuck/models-and-service-layers-hemoglobin-and-hobgoblins)
+* [Principles of Package Design FOSDEM 2015](http://de.slideshare.net/matthiasnoback/principles-of-package-design-fosdem-2015)
+* [Code obfuscation, php shells & more](http://de.slideshare.net/mattiasgeniar/code-obfuscation-php-shells-more)
+* [When to declare classes final](http://phpsw.uk/talks/when-to-declare-classes-final)
+* [The Proxy pattern in PHP](http://ocramius.github.io/presentations/proxy-pattern-in-php/#/)
+
+## Database
+* [MySQL Performance Schema : fossasia](http://de.slideshare.net/mayankmysql/mysql-performance-schema-fossasia)
+* [The elephant in_the_room_continuous_delivery_for_databases](http://de.slideshare.net/RedgateSoftware/the-elephant-intheroomcontinuousdeliveryfordatabases)
+* [Sql query patterns, optimized](http://de.slideshare.net/billkarwin/sql-query-patterns-optimized)
+* [Read / Write Splitting with MySQL and PHP](http://de.slideshare.net/billkarwin/read-write-split)
+* [Models for hierarchical data](http://de.slideshare.net/billkarwin/models-for-hierarchical-data)
+* [Ops manager webinar mar 5, 2015](http://de.slideshare.net/mongodb/ops-manager-webinar-mar-5-2015)
+* [Redis for the Everyday Developer](http://de.slideshare.net/rosstuck/redis-for-the-everyday-developer)
+
+## Zend Framework
+* [Behavioural Driven Development in Zf2](http://de.slideshare.net/davidcontavalli1/zf2-bdd)
+* [Zend Framework 2 - Best Practices](http://de.slideshare.net/eggertralf/zend-framework-2-best-practc)
+* [Zend Framework 2.0 Patterns Tutorial](http://de.slideshare.net/weierophinney/zend-framework-20-patterns-tutorial)
+* [Zend Framework 2 Patterns](http://de.slideshare.net/ZendTechnologies/zend-webinar201103zf2-patterns)
+* [Best Practices with Zend Framework - Matthew Weier O'Phinney](http://de.slideshare.net/dpc/best-practices-with-zend-framework-matthew-weier-ophinney)
+* [Extremely defensive PHP](https://ocramius.github.io/extremely-defensive-php/)
+* [VoodooPHP](http://ocramius.github.io/voodoo-php/)
+* [Doctrine ORM Good Practices and Tricks](http://ocramius.github.io/doctrine-best-practices/)
+* [Unleash the Power of Zend framework 2](http://ocramius.github.io/zf2-dpc-tutorial-slides/)
+
+## Doctrine
+* [Extending Doctrine 2 for your Domain Model](http://de.slideshare.net/rosstuck/extending-doctrine-2-for-your-domain-model-13257781)
+* [Rich domain model with symfony 2.5 and doctrine 2.5](http://de.slideshare.net/_leopro_/rich-domain-model-with-symfony-25-and-doctrine-25)
+* [A complex ORM... faster than SQL?](http://ocramius.github.io/brnophp-2014-slides/)
+* [Doctrine2: To Use or Not to Use](https://qafoo.com/resources/presentations/symfony_live_london_2015/doctrine2_to_use_or_not_to_use.html)
+
+## Docker
+* [Docker Introduction](http://de.slideshare.net/robertreiz/docker-39958028)
+* [Webinar: From Development to Production with Docker and MongoDB](http://de.slideshare.net/mongodb/webinar-from-development-to-production-with-docker-and-mongodb)
+* [Continuous Testing using Shippable and Docker](http://de.slideshare.net/MuktaArankalleAphale/continuous-testing-using-shippable-and-docker)
+* [Anatomy of a Container: Namespaces, cgroups & Some Filesystem Magic - LinuxCon](http://de.slideshare.net/jpetazzo/anatomy-of-a-container-namespaces-cgroups-some-filesystem-magic-linuxcon)
+* [Optimizing Docker Images](http://de.slideshare.net/BrianDeHamer/optimizing-docker-images)
+* [Docker orchestration using core os and ansible - Ansible IL 2015](http://de.slideshare.net/LeonidMirsky/docker-orchestration-using-core-os-and-ansible-ansible-il-2015)
+* [Containers, Docker, and Security: State Of The Union (LinuxCon and ContainerCon 2015)](http://de.slideshare.net/jpetazzo/containers-docker-and-security-state-of-the-union-linuxcon-and-containercon-2015)
+* [Docker in the Enterprise](http://de.slideshare.net/scaganoff/docker-in-the-enterprise)
+* [Infrastructure Deployment with Docker & Ansible](http://de.slideshare.net/robertreiz/docker-ansible-51576034)
+* [Creating Developer-Friendly Docker Containers with Chaperone](http://de.slideshare.net/GaryWisniewski/creating-developerfriendly-docker-containers-with-chaperone)
+* [http://de.slideshare.net/chanezon/docker-platform-and-ecosystem](Docker Platform and Ecosystem)
+* [Docker in production: reality, not hype (OSCON 2015)](http://de.slideshare.net/bridgetkromhout/docker-in-production-reality-not-hype-oscon-2015)
+* [Microservices. Microservices everywhere! (At OSCON 2015)](http://de.slideshare.net/jpetazzo/microservices-microservices-everywhere-at-oscon-2015)
+* [DockerCon SF 2015: Interconnecting Containers at Scale w/ NGINX](http://de.slideshare.net/Docker/slideshare-for-interconnect)
+* [DockerCon SF 2015: Resilient Routing and Discovery](http://de.slideshare.net/Docker/dockercon-sf-2015-the-distributed-system-toolkit)
+* [DockerCon SF 2015: Faster, Cheaper, Safer](http://de.slideshare.net/Docker/fastercheaperslide)
+* [DockerCon SF 2015 : Reliably shipping containers in a resource rich world using Titan](http://de.slideshare.net/Docker/dockercon-sf-2015-reliablilty-shippin)
+* [Containers: from development to production at DevNation 2015](http://de.slideshare.net/jpetazzo/containers-from-development-to-production-at-devnation-2015)
+* [Service Discovery mit Consul](http://de.slideshare.net/oliver.b.fischer/service-discovery-mit-consul)
+* [Eine Einführung in Docker](http://de.slideshare.net/luebken/eine-einfhrung-in-docker)
+* [Dev ops con 2015 radical agility with autonomous teams and microservices in the cloud](http://de.slideshare.net/jlsoft/dev-ops-con-2015-radical-agility-with-autonomous-teams-and-microservices-in-the-cloud-48853988)
+* [Gluecon Monitoring Microservices and Containers: A Challenge](http://de.slideshare.net/adriancockcroft/gluecon-monitoring-microservices-and-containers-a-challenge)
+* [Immutable infrastructure with Docker and containers (GlueCon 2015)](http://de.slideshare.net/jpetazzo/immutable-infrastructure-with-docker-and-containers-gluecon-2015)
+* [Perspectives on Docker](http://de.slideshare.net/rightscale/docker-meetup-40826948)
+* [Docker's Killer Feature: The Remote API](http://de.slideshare.net/bcantrill/dockers-killer-feature)
+* [Docker on a Diet](http://de.slideshare.net/KuanYenHeng/docker-on-a-diet)
+
+
+## nginx
+* [How to secure your web applications with NGINX](http://de.slideshare.net/wallarm/how-to-secure-your-web-applications-with-nginx)
+
+
+## Others
+* [How to Make Logging Even More Feature Rich By Using a Queueing Server](http://de.slideshare.net/loggly/how-to-make-logging-even-more-responsive-by-using-a-queueing-server-by-loggly)
+* [How Google Works](http://de.slideshare.net/ericschmidt/how-google-works-final-1)
+* [Navigating Your Git Repository](https://docs.google.com/presentation/d/1lB9DhjSdfIO4V2nQilVim7DGdpMkn5DjU59enAC7dMw/edit?usp=docslist_api)
