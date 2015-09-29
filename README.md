@@ -67,7 +67,7 @@ This repository helps me to put all the slides from different places to one plac
 * [Docker in the Enterprise](http://de.slideshare.net/scaganoff/docker-in-the-enterprise)
 * [Infrastructure Deployment with Docker & Ansible](http://de.slideshare.net/robertreiz/docker-ansible-51576034)
 * [Creating Developer-Friendly Docker Containers with Chaperone](http://de.slideshare.net/GaryWisniewski/creating-developerfriendly-docker-containers-with-chaperone)
-* [http://de.slideshare.net/chanezon/docker-platform-and-ecosystem](Docker Platform and Ecosystem)
+* [Docker Platform and Ecosystem](http://de.slideshare.net/chanezon/docker-platform-and-ecosystem])
 * [Docker in production: reality, not hype (OSCON 2015)](http://de.slideshare.net/bridgetkromhout/docker-in-production-reality-not-hype-oscon-2015)
 * [Microservices. Microservices everywhere! (At OSCON 2015)](http://de.slideshare.net/jpetazzo/microservices-microservices-everywhere-at-oscon-2015)
 * [DockerCon SF 2015: Interconnecting Containers at Scale w/ NGINX](http://de.slideshare.net/Docker/slideshare-for-interconnect)
