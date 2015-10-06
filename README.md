@@ -7,7 +7,7 @@ This repository helps me to put all the slides from different places to one plac
 * [Puli: PHP's Next Package Revolution](https://speakerdeck.com/webmozart/puli-phps-next-package-revolution)
 * [Real-time Web Apps & Symfony. What are your options?](http://leggetter.github.io/realtime-symfony/)
 * [Hexagonal architecture - message-oriented software design](http://www.slideshare.net/matthiasnoback/hexagonal-architecture-messageoriented-software-design-52937988)
-* [Composer: Stability and Semantic Versioning Demystified]()
+* [Composer: Stability and Semantic Versioning Demystified](https://beau.io/talks/2015/09/11/composer-stability-and-semantic-versioning-demystified-pnwphp/)
 * [CQRS in der Praxis - Newsletter Double-Opt-In](http://de.slideshare.net/phpindd/cqrs-in-der-praxis-newsletter-doubleoptin)
 * [Clean application development tutorial](http://de.slideshare.net/adamculp/clean-application-development-tutorial)
 * [The IoC Hydra](http://de.slideshare.net/cakper/the-ioc-hydra)
